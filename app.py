@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load merged data
-df = pd.read_csv("output/merged_cleaned.csv")
+df = pd.read_csv("merged_cleaned.csv")
 
 # Add combined feature for similarity
 df['combined'] = df['Restaurant'].astype(str) + " " + df['Cuisine'].astype(str)

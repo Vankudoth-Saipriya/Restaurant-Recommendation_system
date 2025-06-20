@@ -1,0 +1,1044 @@
+User,Place,Restaurant,Cuisine,Rating
+U1077,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1077,132825,puesto de tacos,Mexican,2
+U1077,135060,Restaurante Marisco Sam,Seafood,1
+U1068,135104,vips,Mexican,1
+U1068,132740,Carreton de Flautas y Migadas,Mexican,0
+U1068,132663,tacos abi,Mexican,1
+U1068,132732,Taqueria EL amigo ,Mexican,0
+U1068,132630,palomo tec,Mexican,1
+U1067,132584,Gorditas Dona Tota,Mexican,2
+U1067,132733,Little Cesarz,Pizzeria,1
+U1067,132732,Taqueria EL amigo ,Mexican,1
+U1067,132630,palomo tec,Mexican,1
+U1067,135104,vips,Mexican,0
+U1067,132560,puesto de gorditas,Regional,1
+U1103,132584,Gorditas Dona Tota,Mexican,1
+U1103,132732,Taqueria EL amigo ,Mexican,0
+U1103,132630,palomo tec,Mexican,1
+U1103,132613,carnitas_mata,Mexican,2
+U1103,132667,little pizza Emilio Portes Gil,Armenian,1
+U1103,135104,vips,Mexican,1
+U1103,132663,tacos abi,Mexican,1
+U1103,132733,Little Cesarz,Pizzeria,2
+U1107,132584,Gorditas Dona Tota,Mexican,2
+U1107,132733,Little Cesarz,Pizzeria,2
+U1044,135088,Cafeteria cenidet,Cafeteria,2
+U1044,132583,McDonalds Centro,American,1
+U1070,132608,Hamburguesas La perica,Mexican,2
+U1070,132609,Pollo_Frito_Buenos_Aires,Fast_Food,1
+U1070,132613,carnitas_mata,Mexican,1
+U1031,132663,tacos abi,Mexican,0
+U1031,132665,TACOS CORRECAMINOS,Mexican,0
+U1031,132668,TACOS EL GUERO,Mexican,0
+U1082,132630,palomo tec,Mexican,1
+U1023,132715,tacos de la estacion,Mexican,0
+U1023,132717,tortas hawai,Fast_Food,0
+U1082,132613,carnitas_mata,Mexican,0
+U1082,132594,tacos de barbacoa enfrente del Tec,Mexican,0
+U1082,132608,Hamburguesas La perica,Mexican,0
+U1082,132609,Pollo_Frito_Buenos_Aires,Fast_Food,0
+U1082,132663,tacos abi,Mexican,0
+U1082,132560,puesto de gorditas,Regional,0
+U1060,132717,tortas hawai,Fast_Food,2
+U1060,132733,Little Cesarz,Pizzeria,2
+U1060,132740,Carreton de Flautas y Migadas,Mexican,1
+U1015,135071,Restaurante la Cantina,Bar,0
+U1015,135071,Restaurante la Cantina,Bar_Pub_Brewery,0
+U1123,132733,Little Cesarz,Pizzeria,1
+U1123,132608,Hamburguesas La perica,Mexican,1
+U1123,135104,vips,Mexican,2
+U1123,132584,Gorditas Dona Tota,Mexican,1
+U1123,132667,little pizza Emilio Portes Gil,Armenian,1
+U1123,132740,Carreton de Flautas y Migadas,Mexican,1
+U1123,132613,carnitas_mata,Mexican,1
+U1123,132594,tacos de barbacoa enfrente del Tec,Mexican,1
+U1021,132740,Carreton de Flautas y Migadas,Mexican,2
+U1026,132626,la perica hamburguesa,Italian,2
+U1021,132668,TACOS EL GUERO,Mexican,2
+U1021,132715,tacos de la estacion,Mexican,2
+U1083,135034,Michiko Restaurant Japones,Japanese,2
+U1083,132723,Gordas de morales,Mexican,1
+U1083,135046,Restaurante El Reyecito,Fast_Food,2
+U1108,135075,Mariscos El Pescador,Seafood,2
+U1108,132572,Cafe Chaires,Cafeteria,1
+U1108,135074,Restaurante la Parroquia Potosina,Contemporary,2
+U1108,135028,La Virreina,Mexican,1
+U1108,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1108,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1108,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1108,135086,Mcdonalds Parque Tangamanga,Burgers,1
+U1108,135086,Mcdonalds Parque Tangamanga,Fast_Food,1
+U1108,132723,Gordas de morales,Mexican,2
+U1108,135046,Restaurante El Reyecito,Fast_Food,1
+U1108,135058,Restaurante Tiberius,Pizzeria,1
+U1012,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar,2
+U1012,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar_Pub_Brewery,2
+U1093,135019,Restaurant Bar Coty y Pablo,Bar,2
+U1093,134976,Log Yin,Mexican,2
+U1093,134976,Log Yin,Mediterranean,2
+U1093,134976,Log Yin,Burgers,2
+U1093,134999,Kiku Cuernavaca,Japanese,2
+U1030,135018,El Oceano Dorado,Mexican,2
+U1030,134986,Restaurant Las Mananitas,International,2
+U1012,134986,Restaurant Las Mananitas,International,2
+U1012,135018,El Oceano Dorado,Mexican,2
+U1030,135088,Cafeteria cenidet,Cafeteria,1
+U1093,132767,Restaurant Familiar El Chino,Vietnamese,2
+U1030,132767,Restaurant Familiar El Chino,Vietnamese,0
+U1030,135019,Restaurant Bar Coty y Pablo,Bar,0
+U1030,135109,Paniroles,Italian,0
+U1066,134999,Kiku Cuernavaca,Japanese,1
+U1127,135021,Subway,Fast_Food,2
+U1017,132768,Mariscos Tia Licha,Family,1
+U1066,135019,Restaurant Bar Coty y Pablo,Bar,2
+U1017,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar,0
+U1017,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar_Pub_Brewery,0
+U1066,132767,Restaurant Familiar El Chino,Vietnamese,1
+U1100,135021,Subway,Fast_Food,2
+U1100,132768,Mariscos Tia Licha,Family,2
+U1100,134976,Log Yin,Mexican,2
+U1100,134976,Log Yin,Mediterranean,2
+U1100,134976,Log Yin,Burgers,2
+U1133,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar,1
+U1133,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar_Pub_Brewery,1
+U1133,134986,Restaurant Las Mananitas,International,2
+U1133,132766,Mikasa,Japanese,1
+U1133,132767,Restaurant Familiar El Chino,Vietnamese,0
+U1133,135021,Subway,Fast_Food,2
+U1133,135019,Restaurant Bar Coty y Pablo,Bar,1
+U1072,132773,El cotorreo,Family,2
+U1072,132773,El cotorreo,Mexican,2
+U1072,135088,Cafeteria cenidet,Cafeteria,0
+U1026,132706,Gorditas Dona Tota,Mexican,0
+U1026,132665,TACOS CORRECAMINOS,Mexican,2
+U1023,132740,Carreton de Flautas y Migadas,Mexican,0
+U1023,132733,Little Cesarz,Pizzeria,2
+U1080,132668,TACOS EL GUERO,Mexican,1
+U1080,132733,Little Cesarz,Pizzeria,1
+U1080,132608,Hamburguesas La perica,Mexican,2
+U1063,132584,Gorditas Dona Tota,Mexican,2
+U1063,132609,Pollo_Frito_Buenos_Aires,Fast_Food,1
+U1063,135104,vips,Mexican,1
+U1063,132667,little pizza Emilio Portes Gil,Armenian,1
+U1080,132715,tacos de la estacion,Mexican,1
+U1082,132732,Taqueria EL amigo ,Mexican,0
+U1082,132733,Little Cesarz,Pizzeria,0
+U1074,134976,Log Yin,Mexican,2
+U1074,134976,Log Yin,Mediterranean,2
+U1074,134976,Log Yin,Burgers,2
+U1117,135018,El Oceano Dorado,Mexican,1
+U1117,132766,Mikasa,Japanese,0
+U1117,135088,Cafeteria cenidet,Cafeteria,1
+U1117,132773,El cotorreo,Family,1
+U1117,132773,El cotorreo,Mexican,1
+U1118,132583,McDonalds Centro,American,0
+U1118,132768,Mariscos Tia Licha,Family,0
+U1118,135021,Subway,Fast_Food,2
+U1118,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar,0
+U1118,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar_Pub_Brewery,0
+U1020,135088,Cafeteria cenidet,Cafeteria,1
+U1020,132768,Mariscos Tia Licha,Family,2
+U1020,135109,Paniroles,Italian,2
+U1051,135088,Cafeteria cenidet,Cafeteria,1
+U1051,135109,Paniroles,Italian,1
+U1051,132768,Mariscos Tia Licha,Family,1
+U1055,135075,Mariscos El Pescador,Seafood,2
+U1055,132572,Cafe Chaires,Cafeteria,2
+U1055,135028,La Virreina,Mexican,2
+U1055,135025,El Rincon de San Francisco,Mexican,2
+U1083,132572,Cafe Chaires,Cafeteria,2
+U1083,135049,Restaurante de Mariscos la Langosta,Seafood,0
+U1055,135106,El Rinc�n de San Francisco,Mexican,2
+U1083,135072,Sushi Itto,Japanese,1
+U1083,135074,Restaurante la Parroquia Potosina,Contemporary,2
+U1083,132755,La Estrella de Dimas,Mexican,2
+U1083,135044,Restaurant Wu Zhuo Yi,Chinese,1
+U1055,135048,Restaurante Bar Fu-hao,Bar,2
+U1055,132754,Cabana Huasteca,Mexican,2
+U1055,132825,puesto de tacos,Mexican,2
+U1053,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1053,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1053,132825,puesto de tacos,Mexican,1
+U1035,135018,El Oceano Dorado,Mexican,1
+U1035,132773,El cotorreo,Family,2
+U1035,132773,El cotorreo,Mexican,2
+U1053,135042,Restaurant Oriental Express,Chinese,2
+U1053,135053,La Fontana Pizza Restaurante and Cafe,Cafeteria,2
+U1053,135053,La Fontana Pizza Restaurante and Cafe,Fast_Food,2
+U1053,135053,La Fontana Pizza Restaurante and Cafe,Pizzeria,2
+U1053,132754,Cabana Huasteca,Mexican,1
+U1035,132583,McDonalds Centro,American,1
+U1053,135025,El Rincon de San Francisco,Mexican,2
+U1053,135060,Restaurante Marisco Sam,Seafood,2
+U1064,135042,Restaurant Oriental Express,Chinese,1
+U1081,135069,Abondance Restaurante Bar,Bar,1
+U1064,135057,El Herradero Restaurante and Bar,Bar,1
+U1081,135043,pizza clasica,Fast_Food,0
+U1081,135043,pizza clasica,Pizzeria,0
+U1064,135069,Abondance Restaurante Bar,Bar,0
+U1081,135039,Restaurant de Mariscos de Picon,Seafood,0
+U1064,135060,Restaurante Marisco Sam,Seafood,1
+U1064,135052,La Cantina Restaurante,Bar,2
+U1064,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1081,132825,puesto de tacos,Mexican,1
+U1081,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,0
+U1081,135032,Cafeteria y Restaurant El Pacifico,Contemporary,0
+U1081,135028,La Virreina,Mexican,1
+U1081,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1081,135052,La Cantina Restaurante,Bar,0
+U1081,135052,La Cantina Restaurante,Bar_Pub_Brewery,0
+U1081,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,1
+U1081,135030,Preambulo Wifi Zone Cafe,Cafeteria,1
+U1081,135027,Restaurant Orizatlan,Mexican,0
+U1001,132825,puesto de tacos,Mexican,2
+U1014,135069,Abondance Restaurante Bar,Bar,1
+U1088,135057,El Herradero Restaurante and Bar,Bar,1
+U1014,135057,El Herradero Restaurante and Bar,Bar,1
+U1088,135041,Luna Cafe,Bar,2
+U1088,135041,Luna Cafe,Cafeteria,2
+U1088,135069,Abondance Restaurante Bar,Bar,1
+U1014,135043,pizza clasica,Fast_Food,1
+U1014,135043,pizza clasica,Pizzeria,1
+U1014,135042,Restaurant Oriental Express,Chinese,1
+U1088,135071,Restaurante la Cantina,Bar,0
+U1088,135071,Restaurante la Cantina,Bar_Pub_Brewery,0
+U1088,135054,Restaurante y Pescaderia Tampico,Seafood,2
+U1088,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1088,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1056,135027,Restaurant Orizatlan,Mexican,2
+U1056,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1056,135052,La Cantina Restaurante,Bar,2
+U1056,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1056,132825,puesto de tacos,Mexican,2
+U1134,135026,la Cantina,Bar,0
+U1134,135026,la Cantina,Bar_Pub_Brewery,0
+U1134,135044,Restaurant Wu Zhuo Yi,Chinese,1
+U1134,132825,puesto de tacos,Mexican,1
+U1134,135059,Restaurant Bar Hacienda los Martinez,Bar,2
+U1134,135046,Restaurante El Reyecito,Fast_Food,2
+U1134,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1134,135079,Koye Sushi,Chinese,1
+U1134,135055,la Cochinita Pibil Restaurante Yucateco,Mexican,2
+U1134,132754,Cabana Huasteca,Mexican,2
+U1134,132572,Cafe Chaires,Cafeteria,0
+U1134,135075,Mariscos El Pescador,Seafood,2
+U1134,135074,Restaurante la Parroquia Potosina,Contemporary,2
+U1106,135041,Luna Cafe,Bar,1
+U1106,135041,Luna Cafe,Cafeteria,1
+U1126,135069,Abondance Restaurante Bar,Bar,0
+U1106,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,0
+U1106,135032,Cafeteria y Restaurant El Pacifico,Contemporary,0
+U1126,135057,El Herradero Restaurante and Bar,Bar,2
+U1106,135028,La Virreina,Mexican,2
+U1126,135106,El Rinc�n de San Francisco,Mexican,2
+U1126,135052,La Cantina Restaurante,Bar,2
+U1126,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1126,135041,Luna Cafe,Bar,2
+U1126,135041,Luna Cafe,Cafeteria,2
+U1126,135054,Restaurante y Pescaderia Tampico,Seafood,1
+U1044,134986,Restaurant Las Mananitas,International,2
+U1124,135054,Restaurante y Pescaderia Tampico,Seafood,1
+U1044,132768,Mariscos Tia Licha,Family,2
+U1124,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1124,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1124,135071,Restaurante la Cantina,Bar,1
+U1124,135071,Restaurante la Cantina,Bar_Pub_Brewery,1
+U1124,135069,Abondance Restaurante Bar,Bar,1
+U1124,135057,El Herradero Restaurante and Bar,Bar,1
+U1124,135039,Restaurant de Mariscos de Picon,Seafood,1
+U1018,135043,pizza clasica,Fast_Food,0
+U1018,135043,pizza clasica,Pizzeria,0
+U1125,135043,pizza clasica,Fast_Food,1
+U1125,135043,pizza clasica,Pizzeria,1
+U1125,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1125,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1119,134986,Restaurant Las Mananitas,International,2
+U1119,135021,Subway,Fast_Food,0
+U1125,135042,Restaurant Oriental Express,Chinese,1
+U1119,132583,McDonalds Centro,American,2
+U1119,132768,Mariscos Tia Licha,Family,2
+U1125,135060,Restaurante Marisco Sam,Seafood,1
+U1018,135057,El Herradero Restaurante and Bar,Bar,1
+U1018,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1018,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1018,135025,El Rincon de San Francisco,Mexican,1
+U1018,135069,Abondance Restaurante Bar,Bar,0
+U1076,135039,Restaurant de Mariscos de Picon,Seafood,2
+U1076,135027,Restaurant Orizatlan,Mexican,0
+U1076,135042,Restaurant Oriental Express,Chinese,2
+U1076,135073,Restaurante Bar El Gallinero,Bar,2
+U1076,135073,Restaurante Bar El Gallinero,Bar_Pub_Brewery,2
+U1022,135025,El Rincon de San Francisco,Mexican,0
+U1022,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1022,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1022,135057,El Herradero Restaurante and Bar,Bar,2
+U1022,135060,Restaurante Marisco Sam,Seafood,1
+U1022,135052,La Cantina Restaurante,Bar,2
+U1022,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1022,135073,Restaurante Bar El Gallinero,Bar,2
+U1022,135073,Restaurante Bar El Gallinero,Bar_Pub_Brewery,2
+U1094,135054,Restaurante y Pescaderia Tampico,Seafood,0
+U1094,135057,El Herradero Restaurante and Bar,Bar,0
+U1094,135071,Restaurante la Cantina,Bar,0
+U1094,135071,Restaurante la Cantina,Bar_Pub_Brewery,0
+U1094,135069,Abondance Restaurante Bar,Bar,0
+U1116,135060,Restaurante Marisco Sam,Seafood,0
+U1116,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1116,135052,La Cantina Restaurante,Bar,2
+U1116,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1116,135025,El Rincon de San Francisco,Mexican,2
+U1116,135059,Restaurant Bar Hacienda los Martinez,Bar,0
+U1116,135027,Restaurant Orizatlan,Mexican,0
+U1116,132825,puesto de tacos,Mexican,2
+U1116,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,1
+U1116,135030,Preambulo Wifi Zone Cafe,Cafeteria,1
+U1116,132834,Gorditas Doa Gloria,Mexican,2
+U1105,135057,El Herradero Restaurante and Bar,Bar,0
+U1105,135069,Abondance Restaurante Bar,Bar,0
+U1105,135054,Restaurante y Pescaderia Tampico,Seafood,0
+U1105,135039,Restaurant de Mariscos de Picon,Seafood,0
+U1105,135052,La Cantina Restaurante,Bar,0
+U1105,135052,La Cantina Restaurante,Bar_Pub_Brewery,0
+U1007,135057,El Herradero Restaurante and Bar,Bar,1
+U1075,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1075,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1075,132834,Gorditas Doa Gloria,Mexican,1
+U1075,135057,El Herradero Restaurante and Bar,Bar,2
+U1075,135039,Restaurant de Mariscos de Picon,Seafood,2
+U1075,135041,Luna Cafe,Bar,1
+U1075,135041,Luna Cafe,Cafeteria,1
+U1115,135057,El Herradero Restaurante and Bar,Bar,2
+U1115,135054,Restaurante y Pescaderia Tampico,Seafood,0
+U1115,135069,Abondance Restaurante Bar,Bar,1
+U1115,135071,Restaurante la Cantina,Bar,2
+U1115,135071,Restaurante la Cantina,Bar_Pub_Brewery,2
+U1024,132834,Gorditas Doa Gloria,Mexican,1
+U1024,135106,El Rinc�n de San Francisco,Mexican,1
+U1024,135042,Restaurant Oriental Express,Chinese,1
+U1024,132825,puesto de tacos,Mexican,1
+U1024,135060,Restaurante Marisco Sam,Seafood,1
+U1024,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1024,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1024,135039,Restaurant de Mariscos de Picon,Seafood,2
+U1024,135027,Restaurant Orizatlan,Mexican,1
+U1024,135073,Restaurante Bar El Gallinero,Bar,1
+U1024,135073,Restaurante Bar El Gallinero,Bar_Pub_Brewery,1
+U1024,135041,Luna Cafe,Bar,1
+U1024,135041,Luna Cafe,Cafeteria,1
+U1024,135028,La Virreina,Mexican,1
+U1024,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,1
+U1024,135030,Preambulo Wifi Zone Cafe,Cafeteria,1
+U1132,132825,puesto de tacos,Mexican,2
+U1132,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1132,135025,El Rincon de San Francisco,Mexican,1
+U1132,135052,La Cantina Restaurante,Bar,2
+U1132,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1132,135028,La Virreina,Mexican,2
+U1132,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1132,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1132,135027,Restaurant Orizatlan,Mexican,2
+U1005,135041,Luna Cafe,Bar,1
+U1005,135041,Luna Cafe,Cafeteria,1
+U1005,135057,El Herradero Restaurante and Bar,Bar,1
+U1005,135043,pizza clasica,Fast_Food,0
+U1005,135043,pizza clasica,Pizzeria,0
+U1005,135042,Restaurant Oriental Express,Chinese,2
+U1005,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1005,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1120,135085,Tortas Locas Hipocampo,Fast_Food,0
+U1120,132845,Cenaduria El Rincón de Tlaquepaque,Mexican,1
+U1120,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1120,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1004,135060,Restaurante Marisco Sam,Seafood,1
+U1004,135028,La Virreina,Mexican,2
+U1004,135106,El Rinc�n de San Francisco,Mexican,2
+U1120,135057,El Herradero Restaurante and Bar,Bar,2
+U1120,135026,la Cantina,Bar,1
+U1120,135026,la Cantina,Bar_Pub_Brewery,1
+U1004,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1004,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1120,132846,el lechon potosino ,International,2
+U1077,135027,Restaurant Orizatlan,Mexican,0
+U1037,135054,Restaurante y Pescaderia Tampico,Seafood,2
+U1037,132845,Cenaduria El Rincón de Tlaquepaque,Mexican,0
+U1035,134986,Restaurant Las Mananitas,International,2
+U1052,132851,KFC,American,1
+U1052,132851,KFC,Game,1
+U1036,132834,Gorditas Doa Gloria,Mexican,1
+U1036,135079,Koye Sushi,Chinese,2
+U1036,135042,Restaurant Oriental Express,Chinese,2
+U1036,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1036,135025,El Rincon de San Francisco,Mexican,2
+U1036,132825,puesto de tacos,Mexican,2
+U1036,135059,Restaurant Bar Hacienda los Martinez,Bar,2
+U1036,135052,La Cantina Restaurante,Bar,2
+U1036,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1036,132754,Cabana Huasteca,Mexican,2
+U1038,132854,Sirlone,International,1
+U1038,132856,Unicols Pizza,Italian,0
+U1038,132858,Hamburguesas Valle Dorado,Burgers,0
+U1038,132861,Carls Jr,Burgers,1
+U1038,132862,La Posada del Virrey,International,2
+U1071,132862,La Posada del Virrey,International,2
+U1071,135052,La Cantina Restaurante,Bar,2
+U1071,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1071,135060,Restaurante Marisco Sam,Seafood,1
+U1071,135042,Restaurant Oriental Express,Chinese,2
+U1071,132825,puesto de tacos,Mexican,2
+U1071,132856,Unicols Pizza,Italian,2
+U1071,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1071,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1071,132834,Gorditas Doa Gloria,Mexican,1
+U1071,135039,Restaurant de Mariscos de Picon,Seafood,2
+U1071,135028,La Virreina,Mexican,2
+U1071,135025,El Rincon de San Francisco,Mexican,2
+U1071,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,2
+U1071,135030,Preambulo Wifi Zone Cafe,Cafeteria,2
+U1114,135053,La Fontana Pizza Restaurante and Cafe,Cafeteria,0
+U1114,135053,La Fontana Pizza Restaurante and Cafe,Fast_Food,0
+U1114,135053,La Fontana Pizza Restaurante and Cafe,Pizzeria,0
+U1084,135058,Restaurante Tiberius,Pizzeria,1
+U1084,132862,La Posada del Virrey,International,2
+U1084,135072,Sushi Itto,Japanese,2
+U1084,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,2
+U1084,135030,Preambulo Wifi Zone Cafe,Cafeteria,2
+U1084,135026,la Cantina,Bar,2
+U1084,135026,la Cantina,Bar_Pub_Brewery,2
+U1084,135035,El Mundo de la Pasta,Italian,2
+U1084,132861,Carls Jr,Burgers,2
+U1084,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1084,132723,Gordas de morales,Mexican,1
+U1049,132825,puesto de tacos,Mexican,0
+U1049,135041,Luna Cafe,Bar,0
+U1049,135041,Luna Cafe,Cafeteria,0
+U1019,132856,Unicols Pizza,Italian,0
+U1069,132858,Hamburguesas Valle Dorado,Burgers,0
+U1069,135069,Abondance Restaurante Bar,Bar,0
+U1069,132846,el lechon potosino ,International,0
+U1069,132845,Cenaduria El Rincón de Tlaquepaque,Mexican,0
+U1069,132851,KFC,American,1
+U1069,132851,KFC,Game,1
+U1113,135057,El Herradero Restaurante and Bar,Bar,2
+U1113,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1113,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,0
+U1113,135032,Cafeteria y Restaurant El Pacifico,Contemporary,0
+U1113,135079,Koye Sushi,Chinese,1
+U1113,135046,Restaurante El Reyecito,Fast_Food,2
+U1113,132856,Unicols Pizza,Italian,0
+U1113,132854,Sirlone,International,0
+U1104,135039,Restaurant de Mariscos de Picon,Seafood,0
+U1104,132825,puesto de tacos,Mexican,1
+U1104,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1104,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,2
+U1104,135030,Preambulo Wifi Zone Cafe,Cafeteria,2
+U1106,135052,La Cantina Restaurante,Bar,0
+U1106,135052,La Cantina Restaurante,Bar_Pub_Brewery,0
+U1104,132834,Gorditas Doa Gloria,Mexican,1
+U1106,135106,El Rinc�n de San Francisco,Mexican,0
+U1106,132754,Cabana Huasteca,Mexican,2
+U1104,135052,La Cantina Restaurante,Bar,1
+U1104,135052,La Cantina Restaurante,Bar_Pub_Brewery,1
+U1106,132856,Unicols Pizza,Italian,0
+U1104,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1104,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1104,135025,El Rincon de San Francisco,Mexican,2
+U1106,132834,Gorditas Doa Gloria,Mexican,2
+U1106,135042,Restaurant Oriental Express,Chinese,2
+U1106,135039,Restaurant de Mariscos de Picon,Seafood,2
+U1052,132866,Chaires,Bakery,2
+U1052,132866,Chaires,Cafeteria,2
+U1106,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1106,132862,La Posada del Virrey,International,2
+U1106,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,2
+U1106,135030,Preambulo Wifi Zone Cafe,Cafeteria,2
+U1106,135079,Koye Sushi,Chinese,2
+U1052,132869,Dominos Pizza,Pizzeria,2
+U1052,132870,Tortas y hamburguesas el gordo,Burgers,1
+U1104,135041,Luna Cafe,Bar,1
+U1104,135041,Luna Cafe,Cafeteria,1
+U1079,134986,Restaurant Las Mananitas,International,2
+U1079,134976,Log Yin,Mexican,1
+U1079,134976,Log Yin,Mediterranean,1
+U1079,134976,Log Yin,Burgers,1
+U1079,132768,Mariscos Tia Licha,Family,2
+U1079,132766,Mikasa,Japanese,1
+U1045,132825,puesto de tacos,Mexican,2
+U1045,132856,Unicols Pizza,Italian,1
+U1045,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1045,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,0
+U1045,135032,Cafeteria y Restaurant El Pacifico,Contemporary,0
+U1045,132834,Gorditas Doa Gloria,Mexican,1
+U1045,135052,La Cantina Restaurante,Bar,1
+U1045,135052,La Cantina Restaurante,Bar_Pub_Brewery,1
+U1045,135060,Restaurante Marisco Sam,Seafood,2
+U1045,135041,Luna Cafe,Bar,1
+U1045,135041,Luna Cafe,Cafeteria,1
+U1009,132754,Cabana Huasteca,Mexican,1
+U1009,132862,La Posada del Virrey,International,2
+U1009,135060,Restaurante Marisco Sam,Seafood,1
+U1009,135059,Restaurant Bar Hacienda los Martinez,Bar,2
+U1009,132834,Gorditas Doa Gloria,Mexican,2
+U1009,135058,Restaurante Tiberius,Pizzeria,1
+U1009,132825,puesto de tacos,Mexican,1
+U1009,135052,La Cantina Restaurante,Bar,2
+U1009,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1009,135079,Koye Sushi,Chinese,1
+U1016,132834,Gorditas Doa Gloria,Mexican,2
+U1016,135042,Restaurant Oriental Express,Chinese,1
+U1016,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1016,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1016,135106,El Rinc�n de San Francisco,Mexican,2
+U1016,132856,Unicols Pizza,Italian,2
+U1016,135060,Restaurante Marisco Sam,Seafood,2
+U1016,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1016,135052,La Cantina Restaurante,Bar,2
+U1016,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1016,132862,La Posada del Virrey,International,2
+U1047,132875,shi ro ie,Japanese,0
+U1095,132872,Pizzeria Julios,American,1
+U1095,135034,Michiko Restaurant Japones,Japanese,2
+U1095,135058,Restaurante Tiberius,Pizzeria,1
+U1034,135086,Mcdonalds Parque Tangamanga,Burgers,1
+U1034,135086,Mcdonalds Parque Tangamanga,Fast_Food,1
+U1095,132861,Carls Jr,Burgers,1
+U1034,135049,Restaurante de Mariscos la Langosta,Seafood,0
+U1034,132723,Gordas de morales,Mexican,1
+U1095,132723,Gordas de morales,Mexican,2
+U1095,135086,Mcdonalds Parque Tangamanga,Burgers,1
+U1095,135086,Mcdonalds Parque Tangamanga,Fast_Food,1
+U1095,135055,la Cochinita Pibil Restaurante Yucateco,Mexican,2
+U1007,135058,Restaurante Tiberius,Pizzeria,1
+U1007,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1095,135035,El Mundo de la Pasta,Italian,2
+U1095,135072,Sushi Itto,Japanese,2
+U1007,135025,El Rincon de San Francisco,Mexican,1
+U1007,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1007,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1007,135086,Mcdonalds Parque Tangamanga,Burgers,0
+U1007,135086,Mcdonalds Parque Tangamanga,Fast_Food,0
+U1007,132572,Cafe Chaires,Cafeteria,1
+U1078,132885,Hamburguesas saul,Cafeteria,1
+U1099,132834,Gorditas Doa Gloria,Mexican,2
+U1008,132866,Chaires,Bakery,1
+U1008,132866,Chaires,Cafeteria,1
+U1008,132858,Hamburguesas Valle Dorado,Burgers,1
+U1099,135043,pizza clasica,Fast_Food,2
+U1099,135043,pizza clasica,Pizzeria,2
+U1099,132885,Hamburguesas saul,Cafeteria,0
+U1008,132854,Sirlone,International,2
+U1099,132872,Pizzeria Julios,American,1
+U1008,132851,KFC,American,1
+U1008,132851,KFC,Game,1
+U1099,132856,Unicols Pizza,Italian,1
+U1008,132869,Dominos Pizza,Pizzeria,1
+U1008,135069,Abondance Restaurante Bar,Bar,1
+U1099,135060,Restaurante Marisco Sam,Seafood,2
+U1008,132846,el lechon potosino ,International,1
+U1008,135054,Restaurante y Pescaderia Tampico,Seafood,1
+U1099,135042,Restaurant Oriental Express,Chinese,1
+U1040,132773,El cotorreo,Family,1
+U1040,132773,El cotorreo,Mexican,1
+U1040,134999,Kiku Cuernavaca,Japanese,1
+U1040,135019,Restaurant Bar Coty y Pablo,Bar,1
+U1121,135021,Subway,Fast_Food,0
+U1110,135021,Subway,Fast_Food,1
+U1110,132767,Restaurant Familiar El Chino,Vietnamese,2
+U1110,134999,Kiku Cuernavaca,Japanese,2
+U1121,135019,Restaurant Bar Coty y Pablo,Bar,2
+U1121,132767,Restaurant Familiar El Chino,Vietnamese,2
+U1121,134999,Kiku Cuernavaca,Japanese,2
+U1042,132768,Mariscos Tia Licha,Family,2
+U1042,135021,Subway,Fast_Food,1
+U1013,135079,Koye Sushi,Chinese,1
+U1013,135072,Sushi Itto,Japanese,2
+U1013,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1054,135060,Restaurante Marisco Sam,Seafood,2
+U1054,135039,Restaurant de Mariscos de Picon,Seafood,2
+U1054,135052,La Cantina Restaurante,Bar,2
+U1054,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1054,132856,Unicols Pizza,Italian,2
+U1054,135025,El Rincon de San Francisco,Mexican,2
+U1054,135041,Luna Cafe,Bar,2
+U1054,135041,Luna Cafe,Cafeteria,2
+U1054,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,1
+U1054,135032,Cafeteria y Restaurant El Pacifico,Contemporary,1
+U1042,134986,Restaurant Las Mananitas,International,2
+U1111,132845,Cenaduria El Rincón de Tlaquepaque,Mexican,2
+U1111,135071,Restaurante la Cantina,Bar,2
+U1111,135071,Restaurante la Cantina,Bar_Pub_Brewery,2
+U1111,132858,Hamburguesas Valle Dorado,Burgers,1
+U1111,132854,Sirlone,International,2
+U1037,135071,Restaurante la Cantina,Bar,1
+U1037,135071,Restaurante la Cantina,Bar_Pub_Brewery,1
+U1111,132851,KFC,American,2
+U1111,132851,KFC,Game,2
+U1111,132869,Dominos Pizza,Pizzeria,0
+U1037,132869,Dominos Pizza,Pizzeria,1
+U1111,132870,Tortas y hamburguesas el gordo,Burgers,0
+U1037,132851,KFC,American,2
+U1037,132851,KFC,Game,2
+U1037,132854,Sirlone,International,1
+U1015,132845,Cenaduria El Rincón de Tlaquepaque,Mexican,1
+U1015,132866,Chaires,Bakery,0
+U1015,132866,Chaires,Cafeteria,0
+U1015,132870,Tortas y hamburguesas el gordo,Burgers,0
+U1015,135054,Restaurante y Pescaderia Tampico,Seafood,1
+U1015,132869,Dominos Pizza,Pizzeria,2
+U1015,132851,KFC,American,1
+U1015,132851,KFC,Game,1
+U1128,132872,Pizzeria Julios,American,0
+U1062,132872,Pizzeria Julios,American,0
+U1101,135039,Restaurant de Mariscos de Picon,Seafood,1
+U1101,135027,Restaurant Orizatlan,Mexican,2
+U1101,135073,Restaurante Bar El Gallinero,Bar,1
+U1101,135073,Restaurante Bar El Gallinero,Bar_Pub_Brewery,1
+U1101,135106,El Rinc�n de San Francisco,Mexican,0
+U1101,132856,Unicols Pizza,Italian,1
+U1101,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1101,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1101,135052,La Cantina Restaurante,Bar,2
+U1101,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1101,135041,Luna Cafe,Bar,0
+U1101,135041,Luna Cafe,Cafeteria,0
+U1001,135085,Tortas Locas Hipocampo,Fast_Food,0
+U1001,135039,Restaurant de Mariscos de Picon,Seafood,1
+U1001,135025,El Rincon de San Francisco,Mexican,2
+U1135,135085,Tortas Locas Hipocampo,Fast_Food,0
+U1135,135106,El Rinc�n de San Francisco,Mexican,0
+U1135,135052,La Cantina Restaurante,Bar,0
+U1135,135052,La Cantina Restaurante,Bar_Pub_Brewery,0
+U1135,135041,Luna Cafe,Bar,0
+U1135,135041,Luna Cafe,Cafeteria,0
+U1032,132872,Pizzeria Julios,American,1
+U1032,135058,Restaurante Tiberius,Pizzeria,2
+U1032,135079,Koye Sushi,Chinese,2
+U1032,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1032,135042,Restaurant Oriental Express,Chinese,0
+U1032,132856,Unicols Pizza,Italian,1
+U1135,132825,puesto de tacos,Mexican,0
+U1135,132834,Gorditas Doa Gloria,Mexican,0
+U1032,132834,Gorditas Doa Gloria,Mexican,1
+U1032,135060,Restaurante Marisco Sam,Seafood,1
+U1135,135058,Restaurante Tiberius,Pizzeria,0
+U1032,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,0
+U1032,135032,Cafeteria y Restaurant El Pacifico,Contemporary,0
+U1135,132856,Unicols Pizza,Italian,0
+U1135,135028,La Virreina,Mexican,0
+U1135,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,0
+U1135,135032,Cafeteria y Restaurant El Pacifico,Contemporary,0
+U1135,135042,Restaurant Oriental Express,Chinese,0
+U1135,135060,Restaurante Marisco Sam,Seafood,0
+U1048,135049,Restaurante de Mariscos la Langosta,Seafood,1
+U1048,135026,la Cantina,Bar,2
+U1048,135026,la Cantina,Bar_Pub_Brewery,2
+U1048,135034,Michiko Restaurant Japones,Japanese,2
+U1048,135048,Restaurante Bar Fu-hao,Bar,0
+U1048,132755,La Estrella de Dimas,Mexican,2
+U1048,132723,Gordas de morales,Mexican,2
+U1062,135085,Tortas Locas Hipocampo,Fast_Food,0
+U1062,135053,La Fontana Pizza Restaurante and Cafe,Cafeteria,0
+U1062,135053,La Fontana Pizza Restaurante and Cafe,Fast_Food,0
+U1062,135053,La Fontana Pizza Restaurante and Cafe,Pizzeria,0
+U1092,135071,Restaurante la Cantina,Bar,1
+U1092,135071,Restaurante la Cantina,Bar_Pub_Brewery,1
+U1062,132825,puesto de tacos,Mexican,0
+U1092,135085,Tortas Locas Hipocampo,Fast_Food,0
+U1062,135052,La Cantina Restaurante,Bar,0
+U1062,135052,La Cantina Restaurante,Bar_Pub_Brewery,0
+U1092,135046,Restaurante El Reyecito,Fast_Food,0
+U1092,132572,Cafe Chaires,Cafeteria,1
+U1092,135025,El Rincon de San Francisco,Mexican,2
+U1062,132834,Gorditas Doa Gloria,Mexican,0
+U1092,132723,Gordas de morales,Mexican,1
+U1013,132875,shi ro ie,Japanese,2
+U1085,135043,pizza clasica,Fast_Food,2
+U1085,135043,pizza clasica,Pizzeria,2
+U1085,132885,Hamburguesas saul,Cafeteria,0
+U1109,135028,La Virreina,Mexican,2
+U1109,132856,Unicols Pizza,Italian,1
+U1085,135042,Restaurant Oriental Express,Chinese,0
+U1085,135059,Restaurant Bar Hacienda los Martinez,Bar,2
+U1109,132825,puesto de tacos,Mexican,2
+U1085,132872,Pizzeria Julios,American,0
+U1085,135055,la Cochinita Pibil Restaurante Yucateco,Mexican,2
+U1109,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1109,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1085,132825,puesto de tacos,Mexican,2
+U1109,135042,Restaurant Oriental Express,Chinese,2
+U1109,135058,Restaurante Tiberius,Pizzeria,2
+U1109,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1109,132872,Pizzeria Julios,American,1
+U1078,135060,Restaurante Marisco Sam,Seafood,2
+U1078,135106,El Rinc�n de San Francisco,Mexican,2
+U1078,135041,Luna Cafe,Bar,2
+U1078,135041,Luna Cafe,Cafeteria,2
+U1078,132834,Gorditas Doa Gloria,Mexican,0
+U1078,135052,La Cantina Restaurante,Bar,2
+U1078,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1019,135079,Koye Sushi,Chinese,0
+U1102,132846,el lechon potosino ,International,2
+U1098,132885,Hamburguesas saul,Cafeteria,1
+U1098,135060,Restaurante Marisco Sam,Seafood,2
+U1098,132856,Unicols Pizza,Italian,1
+U1046,135026,la Cantina,Bar,1
+U1046,135026,la Cantina,Bar_Pub_Brewery,1
+U1122,132872,Pizzeria Julios,American,2
+U1122,135058,Restaurante Tiberius,Pizzeria,2
+U1122,132834,Gorditas Doa Gloria,Mexican,2
+U1122,132754,Cabana Huasteca,Mexican,2
+U1122,135079,Koye Sushi,Chinese,2
+U1122,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1122,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,2
+U1122,135030,Preambulo Wifi Zone Cafe,Cafeteria,2
+U1122,135053,La Fontana Pizza Restaurante and Cafe,Cafeteria,2
+U1122,135053,La Fontana Pizza Restaurante and Cafe,Fast_Food,2
+U1122,135053,La Fontana Pizza Restaurante and Cafe,Pizzeria,2
+U1138,132921,crudalia,Bar,2
+U1138,132922,cafe punta del cielo,Cafeteria,2
+U1138,132925,el pueblito,Mexican,1
+U1013,132921,crudalia,Bar,2
+U1098,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1098,132825,puesto de tacos,Mexican,1
+U1098,135079,Koye Sushi,Chinese,2
+U1098,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,2
+U1098,135032,Cafeteria y Restaurant El Pacifico,Contemporary,2
+U1098,132861,Carls Jr,Burgers,2
+U1098,135046,Restaurante El Reyecito,Fast_Food,1
+U1098,132862,La Posada del Virrey,International,1
+U1098,132921,crudalia,Bar,1
+U1034,135055,la Cochinita Pibil Restaurante Yucateco,Mexican,0
+U1034,135035,El Mundo de la Pasta,Italian,1
+U1033,135028,La Virreina,Mexican,2
+U1033,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1033,135046,Restaurante El Reyecito,Fast_Food,2
+U1033,132951,VIPS,American,2
+U1033,132572,Cafe Chaires,Cafeteria,1
+U1033,132921,crudalia,Bar,2
+U1033,135075,Mariscos El Pescador,Seafood,2
+U1033,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,2
+U1033,135030,Preambulo Wifi Zone Cafe,Cafeteria,2
+U1089,135058,Restaurante Tiberius,Pizzeria,1
+U1089,135028,La Virreina,Mexican,1
+U1089,132951,VIPS,American,1
+U1089,132921,crudalia,Bar,1
+U1003,132825,puesto de tacos,Mexican,2
+U1089,132754,Cabana Huasteca,Mexican,1
+U1003,135075,Mariscos El Pescador,Seafood,2
+U1089,135026,la Cantina,Bar,1
+U1089,135026,la Cantina,Bar_Pub_Brewery,1
+U1003,132862,La Posada del Virrey,International,1
+U1089,132872,Pizzeria Julios,American,1
+U1089,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1003,135041,Luna Cafe,Bar,0
+U1003,135041,Luna Cafe,Cafeteria,0
+U1089,135072,Sushi Itto,Japanese,1
+U1089,132834,Gorditas Doa Gloria,Mexican,1
+U1003,132937,rockabilly ,Bar,2
+U1089,132875,shi ro ie,Japanese,1
+U1003,132922,cafe punta del cielo,Cafeteria,2
+U1091,132825,puesto de tacos,Mexican,0
+U1091,135075,Mariscos El Pescador,Seafood,2
+U1089,135079,Koye Sushi,Chinese,0
+U1003,132723,Gordas de morales,Mexican,2
+U1091,132861,Carls Jr,Burgers,1
+U1003,132755,La Estrella de Dimas,Mexican,2
+U1091,132875,shi ro ie,Japanese,1
+U1091,135086,Mcdonalds Parque Tangamanga,Burgers,1
+U1091,135086,Mcdonalds Parque Tangamanga,Fast_Food,1
+U1003,135079,Koye Sushi,Chinese,2
+U1027,132921,crudalia,Bar,1
+U1091,132572,Cafe Chaires,Cafeteria,2
+U1027,135052,La Cantina Restaurante,Bar,1
+U1027,135052,La Cantina Restaurante,Bar_Pub_Brewery,1
+U1091,135035,El Mundo de la Pasta,Italian,1
+U1027,132937,rockabilly ,Bar,1
+U1027,132951,VIPS,American,1
+U1027,132925,el pueblito,Mexican,1
+U1027,132872,Pizzeria Julios,American,1
+U1027,132875,shi ro ie,Japanese,1
+U1027,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1027,135042,Restaurant Oriental Express,Chinese,1
+U1029,135059,Restaurant Bar Hacienda los Martinez,Bar,2
+U1029,132937,rockabilly ,Bar,1
+U1029,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1029,132834,Gorditas Doa Gloria,Mexican,0
+U1029,132754,Cabana Huasteca,Mexican,0
+U1029,132825,puesto de tacos,Mexican,1
+U1029,132921,crudalia,Bar,1
+U1029,132862,La Posada del Virrey,International,1
+U1029,132922,cafe punta del cielo,Cafeteria,1
+U1086,132921,crudalia,Bar,1
+U1086,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1086,132922,cafe punta del cielo,Cafeteria,2
+U1086,132937,rockabilly ,Bar,2
+U1086,135041,Luna Cafe,Bar,2
+U1086,135041,Luna Cafe,Cafeteria,2
+U1086,135060,Restaurante Marisco Sam,Seafood,1
+U1086,132951,VIPS,American,1
+U1019,132921,crudalia,Bar,0
+U1019,132834,Gorditas Doa Gloria,Mexican,0
+U1137,132951,VIPS,American,2
+U1019,135086,Mcdonalds Parque Tangamanga,Burgers,0
+U1019,135086,Mcdonalds Parque Tangamanga,Fast_Food,0
+U1137,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1137,132834,Gorditas Doa Gloria,Mexican,2
+U1090,132572,Cafe Chaires,Cafeteria,1
+U1137,132862,La Posada del Virrey,International,2
+U1137,135058,Restaurante Tiberius,Pizzeria,0
+U1137,135059,Restaurant Bar Hacienda los Martinez,Bar,2
+U1137,132825,puesto de tacos,Mexican,2
+U1137,132723,Gordas de morales,Mexican,2
+U1137,132755,La Estrella de Dimas,Mexican,2
+U1137,135042,Restaurant Oriental Express,Chinese,2
+U1137,135049,Restaurante de Mariscos la Langosta,Seafood,2
+U1137,135075,Mariscos El Pescador,Seafood,2
+U1114,132825,puesto de tacos,Mexican,0
+U1114,135058,Restaurante Tiberius,Pizzeria,0
+U1114,132723,Gordas de morales,Mexican,0
+U1114,132951,VIPS,American,0
+U1114,132872,Pizzeria Julios,American,1
+U1114,132834,Gorditas Doa Gloria,Mexican,0
+U1114,135072,Sushi Itto,Japanese,0
+U1114,132754,Cabana Huasteca,Mexican,0
+U1114,132755,La Estrella de Dimas,Mexican,1
+U1061,132825,puesto de tacos,Mexican,1
+U1061,135048,Restaurante Bar Fu-hao,Bar,2
+U1061,132921,crudalia,Bar,1
+U1061,135026,la Cantina,Bar,2
+U1061,135026,la Cantina,Bar_Pub_Brewery,2
+U1061,132723,Gordas de morales,Mexican,2
+U1061,135075,Mariscos El Pescador,Seafood,2
+U1061,135034,Michiko Restaurant Japones,Japanese,2
+U1061,135041,Luna Cafe,Bar,2
+U1061,135041,Luna Cafe,Cafeteria,2
+U1013,132572,Cafe Chaires,Cafeteria,1
+U1013,135075,Mariscos El Pescador,Seafood,2
+U1061,135046,Restaurante El Reyecito,Fast_Food,1
+U1061,132572,Cafe Chaires,Cafeteria,1
+U1061,135058,Restaurante Tiberius,Pizzeria,1
+U1046,135044,Restaurant Wu Zhuo Yi,Chinese,1
+U1046,132921,crudalia,Bar,2
+U1046,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1046,132572,Cafe Chaires,Cafeteria,1
+U1046,135058,Restaurante Tiberius,Pizzeria,2
+U1046,132951,VIPS,American,1
+U1046,132861,Carls Jr,Burgers,1
+U1041,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar,2
+U1041,134983,Restaurant and Bar and Clothesline Carlos N Charlies,Bar_Pub_Brewery,2
+U1041,135021,Subway,Fast_Food,2
+U1041,132768,Mariscos Tia Licha,Family,2
+U1041,135109,Paniroles,Italian,1
+U1004,132954,la parroquia,Breakfast-Brunch,2
+U1004,132955,emilianos,Bar_Pub_Brewery,2
+U1004,132958,tacos los volcanes,American,2
+U1003,132754,Cabana Huasteca,Mexican,2
+U1059,135075,Mariscos El Pescador,Seafood,2
+U1059,135028,La Virreina,Mexican,1
+U1061,132834,Gorditas Doa Gloria,Mexican,1
+U1061,135086,Mcdonalds Parque Tangamanga,Burgers,1
+U1061,135086,Mcdonalds Parque Tangamanga,Fast_Food,1
+U1061,132754,Cabana Huasteca,Mexican,2
+U1090,135052,La Cantina Restaurante,Bar,2
+U1090,135052,La Cantina Restaurante,Bar_Pub_Brewery,2
+U1112,135026,la Cantina,Bar,1
+U1112,135026,la Cantina,Bar_Pub_Brewery,1
+U1090,132862,La Posada del Virrey,International,2
+U1112,132954,la parroquia,Breakfast-Brunch,0
+U1057,135043,pizza clasica,Fast_Food,1
+U1057,135043,pizza clasica,Pizzeria,1
+U1112,135079,Koye Sushi,Chinese,1
+U1090,132954,la parroquia,Breakfast-Brunch,2
+U1112,135048,Restaurante Bar Fu-hao,Bar,0
+U1057,132954,la parroquia,Breakfast-Brunch,1
+U1112,135086,Mcdonalds Parque Tangamanga,Burgers,0
+U1112,135086,Mcdonalds Parque Tangamanga,Fast_Food,0
+U1061,132955,emilianos,Bar_Pub_Brewery,2
+U1112,132921,crudalia,Bar,1
+U1061,132958,tacos los volcanes,American,2
+U1112,135046,Restaurante El Reyecito,Fast_Food,0
+U1090,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1112,132572,Cafe Chaires,Cafeteria,0
+U1090,132922,cafe punta del cielo,Cafeteria,2
+U1025,132866,Chaires,Bakery,2
+U1025,132866,Chaires,Cafeteria,2
+U1112,132834,Gorditas Doa Gloria,Mexican,1
+U1057,132825,puesto de tacos,Mexican,1
+U1112,132862,La Posada del Virrey,International,1
+U1061,132954,la parroquia,Breakfast-Brunch,2
+U1057,135046,Restaurante El Reyecito,Fast_Food,1
+U1090,135025,El Rincon de San Francisco,Mexican,2
+U1090,132925,el pueblito,Mexican,2
+U1057,132862,La Posada del Virrey,International,1
+U1057,135075,Mariscos El Pescador,Seafood,0
+U1057,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,1
+U1057,135030,Preambulo Wifi Zone Cafe,Cafeteria,1
+U1025,135071,Restaurante la Cantina,Bar,2
+U1025,135071,Restaurante la Cantina,Bar_Pub_Brewery,2
+U1057,132834,Gorditas Doa Gloria,Mexican,1
+U1025,132958,tacos los volcanes,American,1
+U1025,132825,puesto de tacos,Mexican,0
+U1025,135028,La Virreina,Mexican,2
+U1025,132846,el lechon potosino ,International,2
+U1097,135079,Koye Sushi,Chinese,2
+U1097,135058,Restaurante Tiberius,Pizzeria,2
+U1097,132954,la parroquia,Breakfast-Brunch,1
+U1097,132958,tacos los volcanes,American,2
+U1097,135026,la Cantina,Bar,1
+U1097,135026,la Cantina,Bar_Pub_Brewery,1
+U1059,132955,emilianos,Bar_Pub_Brewery,2
+U1059,135044,Restaurant Wu Zhuo Yi,Chinese,2
+U1059,132862,La Posada del Virrey,International,0
+U1059,135085,Tortas Locas Hipocampo,Fast_Food,2
+U1059,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,2
+U1059,135030,Preambulo Wifi Zone Cafe,Cafeteria,2
+U1128,135053,La Fontana Pizza Restaurante and Cafe,Cafeteria,0
+U1128,135053,La Fontana Pizza Restaurante and Cafe,Fast_Food,0
+U1128,135053,La Fontana Pizza Restaurante and Cafe,Pizzeria,0
+U1059,132825,puesto de tacos,Mexican,2
+U1059,132754,Cabana Huasteca,Mexican,2
+U1128,135058,Restaurante Tiberius,Pizzeria,0
+U1128,132875,shi ro ie,Japanese,0
+U1128,135079,Koye Sushi,Chinese,0
+U1128,132925,el pueblito,Mexican,0
+U1128,132921,crudalia,Bar,0
+U1128,135060,Restaurante Marisco Sam,Seafood,0
+U1128,132954,la parroquia,Breakfast-Brunch,0
+U1128,132951,VIPS,American,0
+U1097,132921,crudalia,Bar,2
+U1097,132955,emilianos,Bar_Pub_Brewery,2
+U1097,135049,Restaurante de Mariscos la Langosta,Seafood,2
+U1097,135034,Michiko Restaurant Japones,Japanese,2
+U1006,132954,la parroquia,Breakfast-Brunch,1
+U1006,135079,Koye Sushi,Chinese,1
+U1006,132875,shi ro ie,Japanese,2
+U1006,135026,la Cantina,Bar,2
+U1006,135026,la Cantina,Bar_Pub_Brewery,2
+U1006,132922,cafe punta del cielo,Cafeteria,2
+U1006,132572,Cafe Chaires,Cafeteria,1
+U1006,135075,Mariscos El Pescador,Seafood,1
+U1006,132825,puesto de tacos,Mexican,1
+U1006,135048,Restaurante Bar Fu-hao,Bar,1
+U1006,135030,Preambulo Wifi Zone Cafe,Cafe-Coffee_Shop,1
+U1006,135030,Preambulo Wifi Zone Cafe,Cafeteria,1
+U1131,135054,Restaurante y Pescaderia Tampico,Seafood,2
+U1131,132869,Dominos Pizza,Pizzeria,1
+U1131,132866,Chaires,Bakery,2
+U1131,132866,Chaires,Cafeteria,2
+U1131,132851,KFC,American,2
+U1131,132851,KFC,Game,2
+U1131,132870,Tortas y hamburguesas el gordo,Burgers,0
+U1073,132572,Cafe Chaires,Cafeteria,0
+U1073,132951,VIPS,American,0
+U1073,132954,la parroquia,Breakfast-Brunch,0
+U1073,135052,La Cantina Restaurante,Bar,0
+U1073,135052,La Cantina Restaurante,Bar_Pub_Brewery,0
+U1073,132834,Gorditas Doa Gloria,Mexican,0
+U1073,135060,Restaurante Marisco Sam,Seafood,0
+U1073,132862,La Posada del Virrey,International,0
+U1049,132921,crudalia,Bar,0
+U1049,135042,Restaurant Oriental Express,Chinese,0
+U1049,135032,Cafeteria y Restaurant El Pacifico,Cafeteria,0
+U1049,135032,Cafeteria y Restaurant El Pacifico,Contemporary,0
+U1049,135085,Tortas Locas Hipocampo,Fast_Food,0
+U1049,132862,La Posada del Virrey,International,0
+U1049,135052,La Cantina Restaurante,Bar,0
+U1049,135052,La Cantina Restaurante,Bar_Pub_Brewery,0
+U1058,135043,pizza clasica,Fast_Food,1
+U1058,135043,pizza clasica,Pizzeria,1
+U1058,135058,Restaurante Tiberius,Pizzeria,2
+U1058,135053,La Fontana Pizza Restaurante and Cafe,Cafeteria,2
+U1058,135053,La Fontana Pizza Restaurante and Cafe,Fast_Food,2
+U1058,135053,La Fontana Pizza Restaurante and Cafe,Pizzeria,2
+U1058,132885,Hamburguesas saul,Cafeteria,1
+U1058,132872,Pizzeria Julios,American,2
+U1002,132921,crudalia,Bar,2
+U1002,135106,El Rinc�n de San Francisco,Mexican,1
+U1002,132825,puesto de tacos,Mexican,2
+U1002,135052,La Cantina Restaurante,Bar,1
+U1002,135052,La Cantina Restaurante,Bar_Pub_Brewery,1
+U1002,132862,La Posada del Virrey,International,2
+U1096,132875,shi ro ie,Japanese,2
+U1002,135059,Restaurant Bar Hacienda los Martinez,Bar,1
+U1002,135041,Luna Cafe,Bar,2
+U1002,135041,Luna Cafe,Cafeteria,2
+U1002,132925,el pueblito,Mexican,1
+U1002,135085,Tortas Locas Hipocampo,Fast_Food,1
+U1096,135025,El Rincon de San Francisco,Mexican,2
+U1096,135072,Sushi Itto,Japanese,1
+U1096,135086,Mcdonalds Parque Tangamanga,Burgers,1
+U1096,135086,Mcdonalds Parque Tangamanga,Fast_Food,1
+U1096,135055,la Cochinita Pibil Restaurante Yucateco,Mexican,2
+U1136,135074,Restaurante la Parroquia Potosina,Contemporary,1
+U1096,135026,la Cantina,Bar,2
+U1096,135026,la Cantina,Bar_Pub_Brewery,2
+U1136,132862,La Posada del Virrey,International,2
+U1096,132955,emilianos,Bar_Pub_Brewery,2
+U1136,132921,crudalia,Bar,2
+U1136,135072,Sushi Itto,Japanese,1
+U1096,132723,Gordas de morales,Mexican,1
+U1136,135055,la Cochinita Pibil Restaurante Yucateco,Mexican,2
+U1096,132958,tacos los volcanes,American,1
+U1096,135075,Mariscos El Pescador,Seafood,1
+U1136,132958,tacos los volcanes,American,2
+U1136,135048,Restaurante Bar Fu-hao,Bar,1
+U1136,135046,Restaurante El Reyecito,Fast_Food,2
+U1136,135028,La Virreina,Mexican,2
+U1097,135086,Mcdonalds Parque Tangamanga,Burgers,2
+U1097,135086,Mcdonalds Parque Tangamanga,Fast_Food,2
+U1097,135053,La Fontana Pizza Restaurante and Cafe,Cafeteria,2
+U1097,135053,La Fontana Pizza Restaurante and Cafe,Fast_Food,2
+U1097,135053,La Fontana Pizza Restaurante and Cafe,Pizzeria,2
+U1097,132861,Carls Jr,Burgers,2
+U1058,135055,la Cochinita Pibil Restaurante Yucateco,Mexican,2
+U1010,135053,La Fontana Pizza Restaurante and Cafe,Cafeteria,1
+U1010,135053,La Fontana Pizza Restaurante and Cafe,Fast_Food,1
+U1010,135053,La Fontana Pizza Restaurante and Cafe,Pizzeria,1
+U1010,135058,Restaurante Tiberius,Pizzeria,1
+U1010,135079,Koye Sushi,Chinese,0
+U1003,135059,Restaurant Bar Hacienda los Martinez,Bar,2
+U1102,132854,Sirlone,International,2
+U1102,132858,Hamburguesas Valle Dorado,Burgers,2
+U1010,135042,Restaurant Oriental Express,Chinese,2
+U1102,132870,Tortas y hamburguesas el gordo,Burgers,2
+U1013,132951,VIPS,American,2
+U1013,135060,Restaurante Marisco Sam,Seafood,1
+U1028,132732,Taqueria EL amigo ,Mexican,1
+U1028,132733,Little Cesarz,Pizzeria,1
+U1028,135104,vips,Mexican,0
+U1050,132732,Taqueria EL amigo ,Mexican,0
+U1050,132609,Pollo_Frito_Buenos_Aires,Fast_Food,0
+U1050,132608,Hamburguesas La perica,Mexican,0
+U1050,132560,puesto de gorditas,Regional,0
+U1050,132740,Carreton de Flautas y Migadas,Mexican,0
+U1050,132594,tacos de barbacoa enfrente del Tec,Mexican,0
+U1050,132584,Gorditas Dona Tota,Mexican,0
+U1028,132740,Carreton de Flautas y Migadas,Mexican,1
+U1129,132706,Gorditas Dona Tota,Mexican,0
+U1028,132630,palomo tec,Mexican,2
+U1028,132663,tacos abi,Mexican,0
+U1028,132613,carnitas_mata,Mexican,2
+U1087,132667,little pizza Emilio Portes Gil,Armenian,2
+U1087,135104,vips,Mexican,1
+U1087,132732,Taqueria EL amigo ,Mexican,2
+U1087,132740,Carreton de Flautas y Migadas,Mexican,1
+U1087,132560,puesto de gorditas,Regional,1
+U1087,132594,tacos de barbacoa enfrente del Tec,Mexican,1
+U1087,132663,tacos abi,Mexican,1
+U1065,132626,la perica hamburguesa,Italian,1
+U1065,132706,Gorditas Dona Tota,Mexican,2
+U1065,132665,TACOS CORRECAMINOS,Mexican,1
+U1129,132665,TACOS CORRECAMINOS,Mexican,0
+U1039,132626,la perica hamburguesa,Italian,2
+U1039,132665,TACOS CORRECAMINOS,Mexican,1
+U1130,132626,la perica hamburguesa,Italian,0
+U1130,132706,Gorditas Dona Tota,Mexican,1
+U1043,132608,Hamburguesas La perica,Mexican,1
+U1043,132609,Pollo_Frito_Buenos_Aires,Fast_Food,1
+U1011,132717,tortas hawai,Fast_Food,2
+U1043,132613,carnitas_mata,Mexican,1
+U1043,132732,Taqueria EL amigo ,Mexican,1
+U1043,132630,palomo tec,Mexican,1
+U1011,132715,tacos de la estacion,Mexican,1
+U1068,132733,Little Cesarz,Pizzeria,1
+U1068,132594,tacos de barbacoa enfrente del Tec,Mexican,1

@@ -33,8 +33,8 @@ if st.button("Recommend"):
     recommendations = recommend(restaurant_name)
     st.write("✅ Top Recommendations:")
     st.dataframe(recommendations)
-    recommendations.to_csv("output/streamlit_recommendations.csv", index=False)
-    st.success("Saved as 'output/streamlit_recommendations.csv'")
+    recommendations.to_csv("streamlit_recommendations.csv", index=False)
+    st.success("Saved as 'streamlit_recommendations.csv'")
 
 # --- Tab 2: Search by Cuisine
 st.header("🍜 Search Top Restaurants by Cuisine")
@@ -49,8 +49,8 @@ if st.button("Search Cuisine"):
     top_cuisine = top_cuisine[top_cuisine >= min_rating].sort_values(ascending=False).reset_index()
     st.write(f"🍴 Top {cuisine_input.title()} Restaurants with {min_rating}+ Rating:")
     st.dataframe(top_cuisine)
-    top_cuisine.to_csv("output/cuisine_search.csv", index=False)
-    st.success("Saved as 'output/cuisine_search.csv'")
+    top_cuisine.to_csv("cuisine_search.csv", index=False)
+    st.success("Saved as 'cuisine_search.csv'")
 
 # --- Tab 3: Top-N Most Popular
 st.header("🔥 Most Popular Restaurants (by # of Ratings)")
@@ -61,5 +61,5 @@ if st.button("Show Popular"):
     popular = df.groupby(['Restaurant', 'Cuisine'])['Rating'].count().sort_values(ascending=False).head(top_n).reset_index()
     popular.columns = ['Restaurant', 'Cuisine', 'Rating Count']
     st.dataframe(popular)
-    popular.to_csv("output/popular_restaurants.csv", index=False)
-    st.success("Saved as 'output/popular_restaurants.csv'")
+    popular.to_csv("popular_restaurants.csv", index=False)
+    st.success("Saved as 'popular_restaurants.csv'")
